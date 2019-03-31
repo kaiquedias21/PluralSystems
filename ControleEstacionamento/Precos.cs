@@ -15,7 +15,7 @@ namespace ControleEstacionamento
         Console.WriteLine("\n Moto  " +
             "\n - Mensalista: R$150" +
             "\n - Diarista: R$15" +
-            "\n - Horista: R$5* ");
+            "\n - Horista: R$5 ");
         }
     }
 }

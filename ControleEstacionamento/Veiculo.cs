@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace ControleEstacionamento
 {
-    public  class  Cliente
+    class Veiculo : Servicos
     {
-        int cpf;
+        protected String placa;
+        protected Boolean carro;
+        protected Boolean moto;
+
     }
 }
