@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ControleEstacionamento
 {
-    public  class  Cliente
+    public class  Cliente
     {
         int cpf;
     }

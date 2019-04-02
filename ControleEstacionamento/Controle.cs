@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace ControleEstacionamento
 {
-    class Veiculo
+    class Controle
     {
-        protected String placa;
-        protected Cliente cpf;
-        
+        //dateTime Entrada
+        //dateTime Saida
     }
 }

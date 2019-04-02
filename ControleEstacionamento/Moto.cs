@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace ControleEstacionamento
 {
-    class Veiculo
+    class Moto : Veiculo
     {
-        protected String placa;
-        protected Cliente cpf;
-        
+       
     }
 }
