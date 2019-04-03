@@ -9,7 +9,5 @@ namespace ControleEstacionamento
     class Veiculo
     {
         protected String placa;
-        protected Cliente cpf;
-        
     }
 }

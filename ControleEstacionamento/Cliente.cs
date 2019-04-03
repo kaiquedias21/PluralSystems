@@ -8,6 +8,6 @@ namespace ControleEstacionamento
 {
     public class  Cliente
     {
-        int cpf;
+        Double cpf;
     }
 }
